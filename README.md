@@ -2,6 +2,8 @@
 
 A simple autograd engine built in cuda c. Deisgned to be as simple as possible and expose how 1) control flow moves through the model and 2) how memory is handled.
 
+![a console screenshot](https://github.com/0xtimmy/timmygrad.cu/blob/master/Screenshot%20from%202024-02-04%2022-52-51.png?raw=true)
+
 ## Getting started
 Make sure you have a cuda-capable GPU before starting. Built on linux but it should compile on any platform.
 
